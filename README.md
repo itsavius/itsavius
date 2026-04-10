@@ -1,7 +1,7 @@
 👋 Hi, I’m @itsavius
 - 👀 I’m interested in all IT
 - 🌱 I’m currently learning all software
-- 💞️ I’m looking to collaborate on new contact
+- :) I’m looking to collaborate on new contact
 - 📫 How to reach me jojo...
 
 <!---
